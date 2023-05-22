@@ -1,0 +1,123 @@
+# Recent Publications
+ 
+### Spacial Score – A Comprehensive Topological Indicator for Small Molecule Complexity
+Krzyzanowski, A.; Pahl, A.; Grigalunas, M.; Waldmann, H.
+*Preprint on ChemRxiv (Mar 30, 2023); Also submitted to J. Med. Chem.*
+[DOI](https://doi.org/10.26434/chemrxiv-2023-nd1ll)
+<details>
+<summary>Abstract</summary>
+![graphical abstract](res/krzyzanowsky_2023.png)  
+The fraction of sp3 hybridised carbons (Fsp3) and the fraction of stereogenic carbons (FCstereo) are two widely employed scores of molecular complexity with a strong link to biologically relevant features such as frequency, potency and selectivity of protein binding. However, due to their simplistic nature, they do not comprehensively express molecular topology and they often do not match the chemical intuition of complexity. We propose the spacial score (SPS) as an empirical scoring system that builds upon the principle underlying Fsp3 and FCstereo and expresses the spacial complexity of a compound in a uniform manner and on a highly granular scale for convenient ranking of and comparison between molecules. The size-normalised SPS (nSPS) can differentiate distributions of natural products and synthetic compounds and is applicable in the analysis of biological activity data. Analysis of the ChEMBL database revealed general trends of increasing selectivity and potency with increasing nSPS. Notably, SPS can also be used advantageously in planning and analysis of synthesis programs for direct comparison of chemical transformations and intermediates in reaction sequences, for instance in natural product total syntheses.
+</details>
+
+### Scaffold Remodelling of Diazaspirotricycles Enables Synthesis of Diverse sp3-Rich Compounds With Distinct Phenotypic Effects.
+Okolo, E.A.; Pahl, A.; Sievers, S.; Pask, C.M.; Nelson, A.; Marsden, S.  
+*Chem. Eur. J. 2023, 29 (26), e202203992*
+[DOI](https://doi.org/10.1002/chem.202203992)
+<details>
+<summary>Abstract</summary>
+![graphical abstract](res/okolo_2023.png)  
+A 'top down' scaffold remodelling approach to library synthesis was applied to spirotricyclic ureas prepared by a complexity-generating oxidative dearomatisation. Eighteen structurally-distinct, sp3-rich scaffolds were accessed from the parent tricycle through ring addition, cleavage and expansion strategies. Biological screening of a small compound library based on these scaffolds using the cell-painting assay demonstrated distinctive phenotypic responses engendered by different library members, illustrating the functional as well as structural diversity of the compounds.
+</details>
+
+### Identification of Biologically Diverse Tetrahydronaphtalen-2-Ols through the Synthesis and Phenotypic Profiling of Chemically Diverse, Estradiol-Inspired Compounds.
+Whitmarsh-Everiss, T.; Wang, Z.; Hansen, C. H.; Depta, L.; Sassetti, E.; Dan, O. R.; Pahl, A.; Sievers, S.; Laraia, L.  
+*ChemBioChem, 2023, 24 (5), e202200555.* 
+[DOI](https://doi.org/10.1002/cbic.202200555)
+<details>
+<summary>Abstract</summary>
+![graphical abstract](res/whitmarsh-everiss_2023.png)  
+Combining natural product fragments to design new scaffolds with unprecedented bioactivity is a powerful strategy for the discovery of tool compounds and potential therapeutics. However, the choice of fragments to couple and the biological screens to employ remain open questions in the field. By choosing a primary fragment containing the A/B ring system of estradiol and fusing it to nine different secondary fragments, we were able to identify compounds that modulated four different phenotypes: inhibition of autophagy and osteoblast differentiation, as well as potassium channel and tubulin modulation. The latter two were uncovered by using unbiased morphological profiling with a cell-painting assay. The number of hits and variety in bioactivity discovered validates the use of recombining natural product fragments coupled to phenotypic screening for the rapid identification of biologically diverse compounds.
+</details>
+
+### Morphological Subprofile Analysis for Bioactivity Annotation of Small Molecules.
+Pahl, A.; Schölermann, B.; Rusch, M.; Dow, M.; Hedberg, C.; Nelson, A.; Sievers, S.; Waldmann, H.; Ziegler, S.  
+*Preprint on bioRxiv August 15, 2022, p 2022.08.15.503944. Peer-reviewed version accepted at Cell Chemical Biology (accepted Apr 2023).* 
+[DOI](https://doi.org/10.1101/2022.08.15.503944)
+<details>
+<summary>Abstract</summary>
+Fast prediction of mode of action for bioactive compounds would immensely foster bioactivity annotation in compound collections and may early on reveal off-targets in chemical biology research and drug discovery. A variety of target-based assays is available for addressing the modulation of druggable proteins. However, they cannot precisely predict how a compound would influence cellular processes due to polypharmacology. Furthermore, non-protein targets are often not considered. Morphological profiling, e.g., using the Cell Painting assay that monitors hundreds of morphological features upon compound perturbation and staining of cellular components, offers a fast, unbiased assessment of compound activity on various targets and cellular processes in one single experiment. However, due to incomplete bioactivity annotation and unknown activities of reference (landmark) compounds, prediction of bioactivity is not straightforward. Here we introduce the concept of subprofile analysis to map the mode of action for both reference and unexplored compounds. We defined mode-of-action clusters for a group of reference compounds and extracted cluster subprofiles that contain only a subset of morphological features (i.e., subprofiles) to represent a consensus profile. Subprofile analysis allows for assignment of compounds to, currently, ten different targets or modes of action in one single assay and bypasses the need of exploring all biosimilar reference compounds for the generation of target hypothesis. This approach will enable rapid bioactivity annotation of compound collections, particularly of uncharacterized small molecules, and will be extended to further bioactivity clusters in future. The data is public accessible via https://github.com/mpimp-comas/2022_pahl_ziegler_subprofiles and the web app tool http://cpcse.pythonanywhere.com/.
+</details>
+
+### Identification of Dihydroorotate Dehydrogenase Inhibitors Using the Cell Painting Assay.
+Schölermann, B.; Bonowski, J.; Grigalunas, M.; Burhop, A.; Xie, Y.; Hoock, J. G. F.; Liu, J.; Dow, M.; Nelson, A.; Nowak, C.; Pahl, A.; Sievers, S.; Ziegler, S. 
+*ChemBioChem, 2022, 23 (22), e202200475.* 
+[DOI](https://doi.org/10.1002/cbic.202200475)
+<details>
+<summary>Abstract</summary>
+![graphical abstract](res/schoelermann_2022.png)  
+Profiling approaches have been increasingly employed for the characterization of disease-relevant phenotypes or compound perturbation as they provide a broad, unbiased view on impaired cellular states. We report that morphological profiling using the cell painting assay (CPA) can detect modulators of de novo pyrimidine biosynthesis and of dihydroorotate dehydrogenase (DHODH) in particular. The CPA can differentiate between impairment of pyrimidine and folate metabolism, which both affect cellular nucleotide pools. The identified morphological signature is shared by inhibitors of DHODH and the functionally tightly coupled complex III of the mitochondrial respiratory chain as well as by UMP synthase, which is downstream of DHODH. The CPA appears to be particularly suited for the detection of DHODH inhibitors at the site of their action in cells. As DHODH is a validated therapeutic target, the CPA will enable unbiased identification of DHODH inhibitors and inhibitors of de novo pyrimidine biosynthesis for biological research and drug discovery.
+</details>
+
+### Unprecedented Combination of Polyketide Natural Product Fragments Identifies the New Hedgehog Signaling Pathway Inhibitor Grismonone. 
+Grigalunas, M.; Patil, S.; Krzyzanowski, A.; Pahl, A.; Flegel, J.; Schölermann, B.; Xie, J.; Sievers, S.; Ziegler, S.; Waldmann, H. 
+*Chemistry – A European Journal 2022, 28 (67), e202202164.*
+[DOI](https://doi.org/10.1002/chem.202202164)
+<details>
+<summary>Abstract</summary>
+![graphical abstract](res/grigalunas_2022.jpg)  
+Pseudo-natural products (pseudo-NPs) are de novo combinations of natural product (NP) fragments that define novel bioactive chemotypes. For their discovery, new design principles are being sought. Previously, pseudo-NPs were synthesized by the combination of fragments originating from biosynthetically unrelated NPs to guarantee structural novelty and novel bioactivity. We report the combination of fragments from biosynthetically related NPs in novel arrangements to yield a novel chemotype with activity not shared by the guiding fragments. We describe the synthesis of the polyketide pseudo-NP grismonone and identify it as a structurally novel and potent inhibitor of Hedgehog signaling. The insight that the de novo combination of fragments derived from biosynthetically related NPs may also yield new biologically relevant compound classes with unexpected bioactivity may be considered a chemical extension or diversion of existing biosynthetic pathways and greatly expands the opportunities for exploration of biologically relevant chemical space by means of the pseudo-NP principle.
+</details>
+
+
+### Morphological Profiling by Means of the Cell Painting Assay Enables Identification of Tubulin-Targeting Compounds. 
+Akbarzadeh, M.; Deipenwisch, I.; Schoelermann, B.; Pahl, A.; Sievers, S.; Ziegler, S.; Waldmann, H.  
+*Cell Chemical Biology 2022, 29 (6), 1053.*  
+[DOI](https://doi.org/10.1016/j.chembiol.2021.12.009)
+<details>
+<summary>Abstract</summary>
+![graphical abstract](res/akbarzadeh_2022.jpg)  
+In phenotypic compound discovery, conclusive identification of cellular targets and mode of action are often impaired by off-target binding. In particular, microtubules are frequently targeted in cellular assays. However, in vitro tubulin binding assays do not correctly reflect the cellular context, and conclusive high-throughput phenotypic assays monitoring tubulin binding are scarce, such that tubulin binding is rarely identified. We report that morphological profiling using the Cell Painting assay (CPA) can efficiently detect tubulin modulators in compound collections with a high throughput, including annotated reference compounds and unannotated compound classes with unrelated chemotypes and scaffolds. Small-molecule tubulin binders share similar CPA fingerprints, which enables prediction and experimental validation of microtubule-binding activity. Our findings suggest that CPA or a related morphological profiling approach will be an invaluable addition to small-molecule discovery programs in chemical biology and medicinal chemistry, enabling early identification of one of the most frequently observed off-target activities.
+</details>
+
+
+### Combined Morphological and Proteome Profiling Reveals Target-Independent Impairment of Cholesterol Homeostasis. 
+Schneidewind, T.; Brause, A.; Schölermann, B.; Sievers, S.; Pahl, A.; Sankar, *M. G.; Winzker, M.; Janning, P.; Kumar, K.; Ziegler, S.; Waldmann, H.  
+Cell Chemical Biology 2021, 28 (12), 1780-1794.e5.*  
+[DOI](https://doi.org/10.1016/j.chembiol.2021.06.003)
+<details>
+<summary>Abstract</summary>
+![graphical abstract](res/schneidewind_2021.jpg)  
+Unbiased profiling approaches are powerful tools for small-molecule target or mode-of-action deconvolution as they generate a holistic view of the bioactivity space. This is particularly important for non-protein targets that are difficult to identify with commonly applied target identification methods. Thereby, unbiased profiling can enable identification of novel bioactivity even for annotated compounds. We report the identification of a large bioactivity cluster comprised of numerous well-characterized drugs with different primary targets using a combination of the morphological Cell Painting Assay and proteome profiling. Cluster members alter cholesterol homeostasis and localization due to their physicochemical properties that lead to protonation and accumulation in lysosomes, an increase in lysosomal pH, and a disturbed cholesterol homeostasis. The identified cluster enables identification of modulators of cholesterol homeostasis and links regulation of genes or proteins involved in cholesterol synthesis or trafficking to physicochemical properties rather than to nominal targets.
+</details>
+
+
+### Pseudonatural Products Occur Frequently in Biologically Relevant Compounds.
+Gally, J.-M.; Pahl, A.; Czodrowski, P.; Waldmann, H.  
+*J. Chem. Inf. Model. 2021, 61 (11), 5458–5468.*  
+[DOI](https://doi.org/10.1021/acs.jcim.1c01084)
+<details>
+<summary>Abstract</summary>
+![graphical abstract](res/gally_2021.gif)  
+A new methodology for classifying fragment combinations and characterizing pseudonatural products (PNPs) is described. The source code is based on open-source tools and is organized as a Python package. Tasks can be executed individually or within the context of scalable, robust workflows. First, structures are standardized and duplicate entries are filtered out. Then, molecules are probed for the presence of predefined fragments. For molecules with more than one match, fragment combinations are classified. The algorithm considers the pairwise relative position of fragments within the molecule (fused atoms, linkers, intermediary rings), resulting in 18 different possible fragment combination categories. Finally, all combinations for a given molecule are assembled into a fragment combination graph, with fragments as nodes and combination types as edges. This workflow was applied to characterize PNPs in the ChEMBL database via comparison of fragment combination graphs with natural product (NP) references, represented by the Dictionary of Natural Products. The Murcko fragments extracted from 2000 structures previously described were used to define NP fragments. The results indicate that ca. 23% of the biologically relevant compounds listed in ChEMBL comply to the PNP definition and that, therefore, PNPs occur frequently among known biologically relevant small molecules. The majority (>95%) of PNPs contain two to four fragments, mainly (>95%) distributed in five different combination types. These findings may provide guidance for the design of new PNPs.
+</details>
+
+### Combination of Pseudo‐Natural Product Design and Formal Natural Product Ring Distortion Yields Stereochemically and Biologically Diverse Pseudo‐Sesquiterpenoid Alkaloids.
+Liu, J.; Flegel, J.; Otte, F.; Pahl, A.; Sievers, S.; Strohmann, C.; Waldmann, H.  
+*Angew. Chem. Int. Ed. 2021, 60 (39), 21384–21395.*  
+[DOI]h(ttps://doi.org/10.1002/anie.202106654)
+<details>
+<summary>Abstract</summary>
+![graphical abstract](res/liu_2021_2.png)  
+We describe the synthesis and biological evaluation of a new natural product-inspired compound class obtained by combining the conceptually complementary pseudo-natural product (pseudo-NP) design strategy and a formal adaptation of the complexity-to-diversity ring distortion approach. Fragment-sized α-methylene-sesquiterpene lactones, whose scaffolds can formally be viewed as related to each other or are obtained by ring distortion, were combined with alkaloid-derived pyrrolidine fragments by means of highly selective stereocomplementary 1,3-dipolar cycloaddition reactions. The resulting pseudo-sesquiterpenoid alkaloids were found to be both chemically and biologically diverse, and their biological performance distinctly depends on both the structure of the sesquiterpene lactone-derived scaffolds and the stereochemistry of the pyrrolidine fragment. Biological investigation of the compound collection led to the discovery of a novel chemotype inhibiting Hedgehog-dependent osteoblast differentiation.
+</details>
+
+### Design, Synthesis, and Biological Evaluation of Chemically and Biologically Diverse Pyrroquinoline Pseudo Natural Products. 
+Liu, J.; Cremosnik, G. S.; Otte, F.; Pahl, A.; Sievers, S.; Strohmann, C.; Waldmann, H. 
+*Angewandte Chemie International Edition 2021, 60 (9), 4648–4656.  *
+[DOI](https://doi.org/10.1002/anie.202013731)
+<details>
+<summary>Abstract</summary>
+![graphical abstract](res/liu_2021_1.png)  
+Natural product (NP) structures are a rich source of inspiration for the discovery of new biologically relevant chemical matter. In natural product inspired pseudo-NPs, NP-derived fragments are combined de novo in unprecedented arrangements. Described here is the design and synthesis of a 155-member pyrroquinoline pseudo-NP collection in which fragments characteristic of the tetrahydroquinoline and pyrrolidine NP classes are combined with eight different connectivities and regioisomeric arrangements. Cheminformatic analysis and biological evaluation of the compound collection by means of phenotyping in the morphological “cell painting” assay followed by principal component analysis revealed that the pseudo-NP classes are chemically diverse and that bioactivity patterns differ markedly, and are dependent on connectivity and regioisomeric arrangement of the fragments.
+</details>
+
+### Natural Product Fragment Combination to Performance-Diverse Pseudo-Natural Products.
+Grigalunas, M.; Burhop, A.; Zinken, S.; Pahl, A.; Gally, J.-M.; Wild, N.; Mantel, Y.; Sievers, S.; Foley, D. J.; Scheel, R.; Strohmann, C.; Antonchick, A. P.; Waldmann, H.
+*Nat Commun 2021, 12 (1), 1883.*  
+[DOI](https://doi.org/10.1038/s41467-021-22174-4)
+<details>
+<summary>Abstract</summary>
+![graphical abstract](res/grigalunas_2021.jpg)  
+Natural product structure and fragment-based compound development inspire pseudo-natural product design through different combinations of a given natural product fragment set to compound classes expected to be chemically and biologically diverse. We describe the synthetic combination of the fragment-sized natural products quinine, quinidine, sinomenine, and griseofulvin with chromanone or indole-containing fragments to provide a 244-member pseudo-natural product collection. Cheminformatic analyses reveal that the resulting eight pseudo-natural product classes are chemically diverse and share both drug- and natural product-like properties. Unbiased biological evaluation by cell painting demonstrates that bioactivity of pseudo-natural products, guiding natural products, and fragments differ and that combination of different fragments dominates establishment of unique bioactivity. Identification of phenotypic fragment dominance enables design of compound classes with correctly predicted bioactivity. The results demonstrate that fusion of natural product fragments in different combinations and arrangements can provide chemically and biologically diverse pseudo-natural product classes for wider exploration of biologically relevant chemical space.
+</details>
