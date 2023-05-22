@@ -17,21 +17,26 @@ Looking for new opportunities (in Germany).
 ## Skills
 
 ### Languages 
-* **German:** native
-* **English:** fluent
+* **German:** Native
+* **English:** Fluent
 
 ### IT
 
-* **General:** focus on open and free systems whenever possible
-* **OS:** predominantly Linux; Windows
-* **Programming languages:** 
+* **General:** Focus on open and free systems whenever possible
+* **OS:** Predominantly Linux; Windows
+* **Extensive knowledge of programming languages:** 
   - Many years of experience in programming in Python, mainly using the Python data
 science stack (Numpy, Pandas), web services via Flask and Panel, visualization via
 Matplotlib, Seaborn, Holoviews, Altair
   - Additional experience in programming in Rust, Go and Nim
-  - Pipeline Pilot expert user
-  - Compound registration in the MPI Oracle database, database admin
 
-## Recent Publications
+* **High familarity with tools and libraries**
+  - RDKit (Talks at 2 RDKit UGMs)
+  - Pipeline Pilot expert user
+  - Managing cluster workflows using SLURM
+  - Compound registration in Oracle databases, database admin
+
+
+## Recent Publications and Talks
 
 See [separate document](recent_publications.md).

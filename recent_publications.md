@@ -1,5 +1,7 @@
-# Recent Publications
- 
+# Recent Publications and Talks
+
+## Recent Publications
+
 ### Spacial Score – A Comprehensive Topological Indicator for Small Molecule Complexity
 Krzyzanowski, A.; Pahl, A.; Grigalunas, M.; Waldmann, H.
 *Preprint on ChemRxiv (Mar 30, 2023); Also submitted to J. Med. Chem.*  [DOI](https://doi.org/10.26434/chemrxiv-2023-nd1ll)  
@@ -109,3 +111,10 @@ Grigalunas, M.; Burhop, A.; Zinken, S.; Pahl, A.; Gally, J.-M.; Wild, N.; Mantel
 <summary>Abstract</summary>
 Natural product structure and fragment-based compound development inspire pseudo-natural product design through different combinations of a given natural product fragment set to compound classes expected to be chemically and biologically diverse. We describe the synthetic combination of the fragment-sized natural products quinine, quinidine, sinomenine, and griseofulvin with chromanone or indole-containing fragments to provide a 244-member pseudo-natural product collection. Cheminformatic analyses reveal that the resulting eight pseudo-natural product classes are chemically diverse and share both drug- and natural product-like properties. Unbiased biological evaluation by cell painting demonstrates that bioactivity of pseudo-natural products, guiding natural products, and fragments differ and that combination of different fragments dominates establishment of unique bioactivity. Identification of phenotypic fragment dominance enables design of compound classes with correctly predicted bioactivity. The results demonstrate that fusion of natural product fragments in different combinations and arrangements can provide chemically and biologically diverse pseudo-natural product classes for wider exploration of biologically relevant chemical space.
 </details>
+
+## Talks
+
+* *AIDD Spring School - Advanced Machine Learning for Drug Discovery (May 2022)*
+"Cell Painting assay, data analysis and reporting, and its application for identifying biological activity in new chemical matter" ([PDF](https://ai-dd.eu/sites/default/files/school-2/pahl_cell_painting.pdf))
+* *RDKit UGM 2016:* "RDKit Tools for the Jupyter Notebook" ([PDF](https://github.com/rdkit/UGM_2016/blob/master/Presentations/Pahl_NotebookTools_Intro.pdf))
+* *RDKit UGM 2015:* "An Interactive SDF Viewer" ([PDF](https://github.com/rdkit/UGM_2014/blob/master/Presentations/Pahl_SDFViewer.pdf))
