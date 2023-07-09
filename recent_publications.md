@@ -2,9 +2,26 @@
 
 ## Recent Publications
 
+### Morphological Subprofile Analysis for Bioactivity Annotation of Small Molecules.
+Pahl, A.; Schölermann, B.; Lampe, P.; Rusch, M.; Dow, M.;  Hedberg, C.; Nelson, A.; Sievers, S.; Waldmann, H.; Ziegler, S.  
+*Cell Chemical Biology, June 28, 2023.* [DOI](https://doi.org/10.1016/j.chembiol.2023.06.003)
+<img src="res/pahl_2023.jpg" width=300>
+<details>
+<summary>Abstract</summary>
+Fast prediction of the mode of action (MoA) for bioactive compounds would immensely foster bioactivity annotation in compound collections and may early on reveal off-targets in chemical biology research and drug discovery. Morphological profiling, e.g., using the Cell Painting assay, offers a fast, unbiased assessment of compound activity on various targets in one experiment. However, due to incomplete bioactivity annotation and unknown activities of reference compounds, prediction of bioactivity is not straightforward. Here we introduce the concept of subprofile analysis to map the MoA for both, reference and unexplored compounds. We defined MoA clusters and extracted cluster subprofiles that contain only a subset of morphological features. Subprofile analysis allows for the assignment of compounds to, currently, twelve targets or MoA. This approach enables rapid bioactivity annotation of compounds and will be extended to further clusters in the future.
+</details>
+
+### Illuminating Dark Chemical Matter using the Cell Painting Assay
+Pahl, A.; Liu, J.; Patil, S.; Adariani, S.R.; Schölermann, B.; Warmers, J.; Bonowski, J.; Koska, S.; Sievers, S.; Ziegler, S.; Waldmann, H.
+* Preprint on bioRxiv, submitted to J. Med. Chem.* [DOI](https://doi.org/10.1101/2023.05.31.542818)
+<details>
+<summary>Abstract</summary>
+The identification of bioactive small molecules is at the heart of chemical biology and medicinal research. The screening for modulators of disease-relevant targets and phenotypes is the first step on the way to new drugs. Therefore, large compound libraries have been synthesized and employed by academia and, particularly, pharmaceutical companies to meet the need for chemical entities that are as diverse as possible. Extensive screening of these compound libraries revealed a portion of small molecules that is inactive in more than 100 different assays and was therefore termed ‘dark chemical matter’ (DCM). Deorphanization of DCM promises to yield very selective compounds as they, by definition, should have less off-target effects. We employed morphological profiling using the Cell painting assay (CPA) to detect bioactive DCM compounds. CPA is not biased to a given target or phenotype and can detect various unrelated mechanisms and modes of action. Within the DCM collection, we identified bioactive compounds and confirmed several modulators of microtubules, DNA synthesis and pyrimidine biosynthesis. Profiling approaches are therefore powerful tools to probe compound collections for bioactivity in an unbiased manner and particularly suitable for deorphanization of DCM.
+</details>
+
 ### Spacial Score – A Comprehensive Topological Indicator for Small Molecule Complexity
 Krzyzanowski, A.; Pahl, A.; Grigalunas, M.; Waldmann, H.
-*Preprint on ChemRxiv (Mar 30, 2023); Also submitted to J. Med. Chem.*  [DOI](https://doi.org/10.26434/chemrxiv-2023-nd1ll)  
+*Preprint on ChemRxiv (Mar 30, 2023); Accepted by J. Med. Chem.* [DOI](https://doi.org/10.26434/chemrxiv-2023-nd1ll)  
 <img src="res/krzyzanowsky_2023.png" width=350>
 <details>
 <summary>Abstract</summary>
@@ -27,14 +44,6 @@ Whitmarsh-Everiss, T.; Wang, Z.; Hansen, C. H.; Depta, L.; Sassetti, E.; Dan, O.
 <details>
 <summary>Abstract</summary>
 Combining natural product fragments to design new scaffolds with unprecedented bioactivity is a powerful strategy for the discovery of tool compounds and potential therapeutics. However, the choice of fragments to couple and the biological screens to employ remain open questions in the field. By choosing a primary fragment containing the A/B ring system of estradiol and fusing it to nine different secondary fragments, we were able to identify compounds that modulated four different phenotypes: inhibition of autophagy and osteoblast differentiation, as well as potassium channel and tubulin modulation. The latter two were uncovered by using unbiased morphological profiling with a cell-painting assay. The number of hits and variety in bioactivity discovered validates the use of recombining natural product fragments coupled to phenotypic screening for the rapid identification of biologically diverse compounds.
-</details>
-
-### Morphological Subprofile Analysis for Bioactivity Annotation of Small Molecules.
-Pahl, A.; Schölermann, B.; Rusch, M.; Dow, M.; Hedberg, C.; Nelson, A.; Sievers, S.; Waldmann, H.; Ziegler, S.  
-*Preprint on bioRxiv August 15, 2022, p 2022.08.15.503944. Peer-reviewed version accepted at Cell Chemical Biology (accepted Apr 2023).* [DOI](https://doi.org/10.1101/2022.08.15.503944)
-<details>
-<summary>Abstract</summary>
-Fast prediction of mode of action for bioactive compounds would immensely foster bioactivity annotation in compound collections and may early on reveal off-targets in chemical biology research and drug discovery. A variety of target-based assays is available for addressing the modulation of druggable proteins. However, they cannot precisely predict how a compound would influence cellular processes due to polypharmacology. Furthermore, non-protein targets are often not considered. Morphological profiling, e.g., using the Cell Painting assay that monitors hundreds of morphological features upon compound perturbation and staining of cellular components, offers a fast, unbiased assessment of compound activity on various targets and cellular processes in one single experiment. However, due to incomplete bioactivity annotation and unknown activities of reference (landmark) compounds, prediction of bioactivity is not straightforward. Here we introduce the concept of subprofile analysis to map the mode of action for both reference and unexplored compounds. We defined mode-of-action clusters for a group of reference compounds and extracted cluster subprofiles that contain only a subset of morphological features (i.e., subprofiles) to represent a consensus profile. Subprofile analysis allows for assignment of compounds to, currently, ten different targets or modes of action in one single assay and bypasses the need of exploring all biosimilar reference compounds for the generation of target hypothesis. This approach will enable rapid bioactivity annotation of compound collections, particularly of uncharacterized small molecules, and will be extended to further bioactivity clusters in future. The data is public accessible via https://github.com/mpimp-comas/2022_pahl_ziegler_subprofiles and the web app tool http://cpcse.pythonanywhere.com/.
 </details>
 
 ### Identification of Dihydroorotate Dehydrogenase Inhibitors Using the Cell Painting Assay.
