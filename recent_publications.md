@@ -28,9 +28,28 @@ Krzyzanowski, A.; Pahl, A.; Grigalunas, M.; Waldmann, H.
 The fraction of sp3 hybridised carbons (Fsp3) and the fraction of stereogenic carbons (FCstereo) are two widely employed scores of molecular complexity with a strong link to biologically relevant features such as frequency, potency and selectivity of protein binding. However, due to their simplistic nature, they do not comprehensively express molecular topology and they often do not match the chemical intuition of complexity. We propose the spacial score (SPS) as an empirical scoring system that builds upon the principle underlying Fsp3 and FCstereo and expresses the spacial complexity of a compound in a uniform manner and on a highly granular scale for convenient ranking of and comparison between molecules. The size-normalised SPS (nSPS) can differentiate distributions of natural products and synthetic compounds and is applicable in the analysis of biological activity data. Analysis of the ChEMBL database revealed general trends of increasing selectivity and potency with increasing nSPS. Notably, SPS can also be used advantageously in planning and analysis of synthesis programs for direct comparison of chemical transformations and intermediates in reaction sequences, for instance in natural product total syntheses.
 </details>
 
+### Phenotypic Profiling Enables the Targeted Design of a Novel Pseudo-Natural Product Class. 
+Zinken, S.; Pahl, A.; Grigalunas, M.; Waldmann, H. 
+*Tetrahedron 2023, 133553* [DOI](https://doi.org/10.1016/j.tet.2023.133553)  
+<img src="res/zinken_2023.jpg" width=400>
+<details>
+<summary>Abstract</summary>
+Chromaline pseudo-natural products are the combination of chromane and 4H-quinoline natural product fragments and were designed to access novel biological space based on the diverse bioactivity profiles of previous pseudo-natural product classes composed of similar fragments. The development and application of a four-step synthetic sequence followed by derivatization afforded a collection of 39 chromalines that is topologically diverse and possesses both drug-like and natural product-like properties. Morphological profiling via the cell painting assay revealed the chromalines have bioactivity profiles that are distinct from the guiding pseudo-natural product collections and suggests that the new fragment combination may have led to a unique bioactivity.
+</details>
+
+### Morphological Profiling Identifies the Motor Protein Eg5 as Cellular Target of Spirooxindoles. 
+Liu, J.; Mallick, S.; Xie, Y.; Grassin, C.; Lucas, B.; Schölermann, B.; Pahl, A.; Scheel, R.; Strohmann, C.; Protzel, C.; Berg, T.; Merten, C.; Ziegler, S.; Waldmann, H. 
+*Angew. Chem. Int. Ed. 2023, 62 (21), e202301955* [DOI](https://doi.org/10.1002/anie.202301955)  
+<img src="res/liu_2023_eg5.jpg" width=400>
+<details>
+<summary>Abstract</summary>
+Oxindoles and iso-oxindoles are natural product-derived scaffolds that provide inspiration for the design and synthesis of novel biologically relevant compound classes. Notably, the spirocyclic connection of oxindoles with iso-oxindoles has not been explored by nature but promises to provide structurally related compounds endowed with novel bioactivity. Therefore, methods for their efficient synthesis and the conclusive discovery of their cellular targets are highly desirable. We describe a selective RhIII-catalyzed scaffold-divergent synthesis of spirooxindole–isooxindoles and spirooxindole–oxindoles from differently protected diazooxindoles and N-pivaloyloxy aryl amides which includes a functional group-controlled Lossen rearrangement as key step. Unbiased morphological profiling of a corresponding compound collection in the Cell Painting assay efficiently identified the mitotic kinesin Eg5 as the cellular target of the spirooxindoles, defining a unique Eg5 inhibitor chemotype.
+</details>
+
+
 ### Scaffold Remodelling of Diazaspirotricycles Enables Synthesis of Diverse sp3-Rich Compounds With Distinct Phenotypic Effects.
 Okolo, E.A.; Pahl, A.; Sievers, S.; Pask, C.M.; Nelson, A.; Marsden, S.  
-*Chem. Eur. J. 2023, 29 (26), e202203992*[DOI](https://doi.org/10.1002/chem.202203992)  
+*Chem. Eur. J. 2023, 29 (26), e202203992* [DOI](https://doi.org/10.1002/chem.202203992)  
 <img src="res/okolo_2023.png" width=400>
 <details>
 <summary>Abstract</summary>
