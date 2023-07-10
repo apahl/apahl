@@ -4,7 +4,7 @@
 
 ### Morphological Subprofile Analysis for Bioactivity Annotation of Small Molecules.
 Pahl, A.; Schölermann, B.; Lampe, P.; Rusch, M.; Dow, M.;  Hedberg, C.; Nelson, A.; Sievers, S.; Waldmann, H.; Ziegler, S.  
-*Cell Chemical Biology, June 28, 2023.* [DOI](https://doi.org/10.1016/j.chembiol.2023.06.003)
+*Cell Chemical Biology, June 28, 2023.* [DOI](https://doi.org/10.1016/j.chembiol.2023.06.003)  
 <img src="res/pahl_2023.jpg" width=300>
 <details>
 <summary>Abstract</summary>
