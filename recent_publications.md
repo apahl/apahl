@@ -12,24 +12,24 @@ Fast prediction of the mode of action (MoA) for bioactive compounds would immens
 </details>
 
 ### Illuminating Dark Chemical Matter using the Cell Painting Assay
-Pahl, A.; Liu, J.; Patil, S.; Adariani, S.R.; Schölermann, B.; Warmers, J.; Bonowski, J.; Koska, S.; Sievers, S.; Ziegler, S.; Waldmann, H.
-* Preprint on bioRxiv, submitted to J. Med. Chem.* [DOI](https://doi.org/10.1101/2023.05.31.542818)
+Pahl, A.; Liu, J.; Patil, S.; Adariani, S.R.; Schölermann, B.; Warmers, J.; Bonowski, J.; Koska, S.; Sievers, S.; Ziegler, S.; Waldmann, H.  
+*Preprint on bioRxiv, submitted to J. Med. Chem.* [DOI](https://doi.org/10.1101/2023.05.31.542818)  
 <details>
 <summary>Abstract</summary>
 The identification of bioactive small molecules is at the heart of chemical biology and medicinal research. The screening for modulators of disease-relevant targets and phenotypes is the first step on the way to new drugs. Therefore, large compound libraries have been synthesized and employed by academia and, particularly, pharmaceutical companies to meet the need for chemical entities that are as diverse as possible. Extensive screening of these compound libraries revealed a portion of small molecules that is inactive in more than 100 different assays and was therefore termed ‘dark chemical matter’ (DCM). Deorphanization of DCM promises to yield very selective compounds as they, by definition, should have less off-target effects. We employed morphological profiling using the Cell painting assay (CPA) to detect bioactive DCM compounds. CPA is not biased to a given target or phenotype and can detect various unrelated mechanisms and modes of action. Within the DCM collection, we identified bioactive compounds and confirmed several modulators of microtubules, DNA synthesis and pyrimidine biosynthesis. Profiling approaches are therefore powerful tools to probe compound collections for bioactivity in an unbiased manner and particularly suitable for deorphanization of DCM.
 </details>
 
 ### Spacial Score – A Comprehensive Topological Indicator for Small Molecule Complexity
-Krzyzanowski, A.; Pahl, A.; Grigalunas, M.; Waldmann, H.
+Krzyzanowski, A.; Pahl, A.; Grigalunas, M.; Waldmann, H.  
 *Preprint on ChemRxiv (Mar 30, 2023); Accepted by J. Med. Chem.* [DOI](https://doi.org/10.26434/chemrxiv-2023-nd1ll)  
-<img src="res/krzyzanowsky_2023.png" width=350>
+<img src="res/krzyzanowsky_2023.png" width=350>  
 <details>
 <summary>Abstract</summary>
 The fraction of sp3 hybridised carbons (Fsp3) and the fraction of stereogenic carbons (FCstereo) are two widely employed scores of molecular complexity with a strong link to biologically relevant features such as frequency, potency and selectivity of protein binding. However, due to their simplistic nature, they do not comprehensively express molecular topology and they often do not match the chemical intuition of complexity. We propose the spacial score (SPS) as an empirical scoring system that builds upon the principle underlying Fsp3 and FCstereo and expresses the spacial complexity of a compound in a uniform manner and on a highly granular scale for convenient ranking of and comparison between molecules. The size-normalised SPS (nSPS) can differentiate distributions of natural products and synthetic compounds and is applicable in the analysis of biological activity data. Analysis of the ChEMBL database revealed general trends of increasing selectivity and potency with increasing nSPS. Notably, SPS can also be used advantageously in planning and analysis of synthesis programs for direct comparison of chemical transformations and intermediates in reaction sequences, for instance in natural product total syntheses.
 </details>
 
 ### Phenotypic Profiling Enables the Targeted Design of a Novel Pseudo-Natural Product Class. 
-Zinken, S.; Pahl, A.; Grigalunas, M.; Waldmann, H. 
+Zinken, S.; Pahl, A.; Grigalunas, M.; Waldmann, H.  
 *Tetrahedron 2023, 133553* [DOI](https://doi.org/10.1016/j.tet.2023.133553)  
 <img src="res/zinken_2023.jpg" width=400>
 <details>
@@ -38,9 +38,9 @@ Chromaline pseudo-natural products are the combination of chromane and 4H-quinol
 </details>
 
 ### Morphological Profiling Identifies the Motor Protein Eg5 as Cellular Target of Spirooxindoles. 
-Liu, J.; Mallick, S.; Xie, Y.; Grassin, C.; Lucas, B.; Schölermann, B.; Pahl, A.; Scheel, R.; Strohmann, C.; Protzel, C.; Berg, T.; Merten, C.; Ziegler, S.; Waldmann, H. 
+Liu, J.; Mallick, S.; Xie, Y.; Grassin, C.; Lucas, B.; Schölermann, B.; Pahl, A.; Scheel, R.; Strohmann, C.; Protzel, C.; Berg, T.; Merten, C.; Ziegler, S.; Waldmann, H.  
 *Angew. Chem. Int. Ed. 2023, 62 (21), e202301955* [DOI](https://doi.org/10.1002/anie.202301955)  
-<img src="res/liu_2023_eg5.jpg" width=400>
+<img src="res/liu_2023_eg5.jpg" width=400>  
 <details>
 <summary>Abstract</summary>
 Oxindoles and iso-oxindoles are natural product-derived scaffolds that provide inspiration for the design and synthesis of novel biologically relevant compound classes. Notably, the spirocyclic connection of oxindoles with iso-oxindoles has not been explored by nature but promises to provide structurally related compounds endowed with novel bioactivity. Therefore, methods for their efficient synthesis and the conclusive discovery of their cellular targets are highly desirable. We describe a selective RhIII-catalyzed scaffold-divergent synthesis of spirooxindole–isooxindoles and spirooxindole–oxindoles from differently protected diazooxindoles and N-pivaloyloxy aryl amides which includes a functional group-controlled Lossen rearrangement as key step. Unbiased morphological profiling of a corresponding compound collection in the Cell Painting assay efficiently identified the mitotic kinesin Eg5 as the cellular target of the spirooxindoles, defining a unique Eg5 inhibitor chemotype.
@@ -50,7 +50,7 @@ Oxindoles and iso-oxindoles are natural product-derived scaffolds that provide i
 ### Scaffold Remodelling of Diazaspirotricycles Enables Synthesis of Diverse sp3-Rich Compounds With Distinct Phenotypic Effects.
 Okolo, E.A.; Pahl, A.; Sievers, S.; Pask, C.M.; Nelson, A.; Marsden, S.  
 *Chem. Eur. J. 2023, 29 (26), e202203992* [DOI](https://doi.org/10.1002/chem.202203992)  
-<img src="res/okolo_2023.png" width=400>
+<img src="res/okolo_2023.png" width=400>  
 <details>
 <summary>Abstract</summary>
 A 'top down' scaffold remodelling approach to library synthesis was applied to spirotricyclic ureas prepared by a complexity-generating oxidative dearomatisation. Eighteen structurally-distinct, sp3-rich scaffolds were accessed from the parent tricycle through ring addition, cleavage and expansion strategies. Biological screening of a small compound library based on these scaffolds using the cell-painting assay demonstrated distinctive phenotypic responses engendered by different library members, illustrating the functional as well as structural diversity of the compounds.
