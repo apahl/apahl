@@ -2,9 +2,18 @@
 
 ## Recent Publications
 
+### Synthetic Matching of Complex Monoterpene Indole Alkaloid Chemical Space. 
+Xie, J.; Pahl, A.; Krzyzanowski, A.; Krupp, A.; Liu, J.; Koska, S.; Schölermann, B.; Zhang, R.; Bonowski, J.; Sievers, S.; Strohmann, C.; Ziegler, S.; Grigalunas, M.; Waldmann, H. 
+*Angewandte Chemie International Edition 2023, e202310222* [DOI](https://doi.org/10.1002/anie.202310222)  
+<img src="res/xie_2023.png" width=600>
+<details>
+<summary>Abstract</summary>
+Monoterpene indole alkaloids (MIAs) are endowed with high structural and spatial complexity and characterized by diverse biological activities. Given this complexity-activity combination in MIAs, rapid and efficient access to chemical matter related to and with complexity similar to these alkaloids would be highly desirable, since such compound classes might display novel bioactivity. We describe the design and synthesis of a pseudo-natural product (pseudo-NP) collection obtained by the unprecedented combination of MIA fragments through complexity-generating transformations, resulting in arrangements not currently accessible by biosynthetic pathways. Cheminformatic analyses revealed that both the pseudo-NPs and the MIAs reside in a unique and common area of chemical space with high spatial complexity-density that is only sparsely populated by other natural products and drugs. Investigation of bioactivity guided by morphological profiling identified pseudo-NPs that inhibit DNA synthesis and modulate tubulin. These results demonstrate that the pseudo-NP collection occupies similar biologically relevant chemical space that Nature has endowed MIAs with.
+</details>
+
 ### Morphological Subprofile Analysis for Bioactivity Annotation of Small Molecules.
 Pahl, A.; Schölermann, B.; Lampe, P.; Rusch, M.; Dow, M.;  Hedberg, C.; Nelson, A.; Sievers, S.; Waldmann, H.; Ziegler, S.  
-*Cell Chemical Biology, June 28, 2023.* [DOI](https://doi.org/10.1016/j.chembiol.2023.06.003)  
+*Cell Chemical Biology 2023, 30 (7), 839-853.e7* [DOI](https://doi.org/10.1016/j.chembiol.2023.06.003)  
 <img src="res/pahl_2023.jpg" width=300>
 <details>
 <summary>Abstract</summary>
@@ -21,11 +30,11 @@ The identification of bioactive small molecules is at the heart of chemical biol
 
 ### Spacial Score – A Comprehensive Topological Indicator for Small Molecule Complexity
 Krzyzanowski, A.; Pahl, A.; Grigalunas, M.; Waldmann, H.  
-*Preprint on ChemRxiv (Mar 30, 2023); Accepted by J. Med. Chem.* [DOI](https://doi.org/10.26434/chemrxiv-2023-nd1ll)  
+*J. Med. Chem. 2023, 66 (18), 12739–12750* [DOI](https://doi.org/10.1021/acs.jmedchem.3c00689)  
 <img src="res/krzyzanowsky_2023.png" width=350>  
 <details>
 <summary>Abstract</summary>
-The fraction of sp3 hybridised carbons (Fsp3) and the fraction of stereogenic carbons (FCstereo) are two widely employed scores of molecular complexity with a strong link to biologically relevant features such as frequency, potency and selectivity of protein binding. However, due to their simplistic nature, they do not comprehensively express molecular topology and they often do not match the chemical intuition of complexity. We propose the spacial score (SPS) as an empirical scoring system that builds upon the principle underlying Fsp3 and FCstereo and expresses the spacial complexity of a compound in a uniform manner and on a highly granular scale for convenient ranking of and comparison between molecules. The size-normalised SPS (nSPS) can differentiate distributions of natural products and synthetic compounds and is applicable in the analysis of biological activity data. Analysis of the ChEMBL database revealed general trends of increasing selectivity and potency with increasing nSPS. Notably, SPS can also be used advantageously in planning and analysis of synthesis programs for direct comparison of chemical transformations and intermediates in reaction sequences, for instance in natural product total syntheses.
+The fraction of sp3-hybridized carbons (Fsp3) and the fraction of stereogenic carbons (FCstereo) are two widely employed scores of molecular complexity with strong links to biologically relevant features. However, they do not comprehensively express molecular topology, and they often do not match the chemical intuition of complexity. We propose the spacial score (SPS) as an empirical scoring system that builds upon the principle underlying Fsp3 and FCstereo and expresses the spacial complexity of a compound in a uniform manner on a highly granular scale. The size-normalized SPS (nSPS) can differentiate distributions of natural products and synthetic compounds and is applicable in the analysis of biological activity data. Analysis of the ChEMBL database revealed general trends of increasing selectivity and potency with increasing nSPS. SPS can also be used advantageously in planning and analysis of synthesis programs for direct comparison of chemical transformations and intermediates in reaction sequences.
 </details>
 
 ### Phenotypic Profiling Enables the Targeted Design of a Novel Pseudo-Natural Product Class. 
