@@ -2,8 +2,17 @@
 
 ## Recent Publications
 
+### A Divergent Intermediate Strategy Yields Biologically Diverse Pseudo-Natural Products.
+Bag, S.; Liu, J.; Patil, S.; Bonowski, J.; Koska, S.; Schölermann, B.; Zhang, R.; Wang, L.; Pahl, A.; Sievers, S.; Brieger, L.; Strohmann, C.; Ziegler, S.; Grigalunas, M.; Waldmann, H.  
+*Nat. Chem. 2024, 1-14.* [DOI](https://doi.org/10.1038/s41557-024-01458-4).
+<img src="res/bag_sukdev_2024.jpg" width=550>
+<details>
+<summary>Abstract</summary>
+The efficient exploration of biologically relevant chemical space is essential for the discovery of bioactive compounds. A molecular design principle that possesses both biological relevance and structural diversity may more efficiently lead to compound collections that are enriched in diverse bioactivities. Here the diverse pseudo-natural product (PNP) strategy, which combines the biological relevance of the PNP concept with synthetic diversification strategies from diversity-oriented synthesis, is reported. A diverse PNP collection was synthesized from a common divergent intermediate through developed indole dearomatization methodologies to afford three-dimensional molecular frameworks that could be further diversified via intramolecular coupling and/or carbon monoxide insertion. In total, 154 PNPs were synthesized representing eight different classes. Cheminformatic analyses showed that the PNPs are structurally diverse between classes. Biological investigations revealed the extent of diverse bioactivity enrichment of the collection in which four inhibitors of Hedgehog signalling, DNA synthesis, de novo pyrimidine biosynthesis and tubulin polymerization were identified from four different PNP classes.
+</details>
+
 ### Synthetic Matching of Complex Monoterpene Indole Alkaloid Chemical Space. 
-Xie, J.; Pahl, A.; Krzyzanowski, A.; Krupp, A.; Liu, J.; Koska, S.; Schölermann, B.; Zhang, R.; Bonowski, J.; Sievers, S.; Strohmann, C.; Ziegler, S.; Grigalunas, M.; Waldmann, H. 
+Xie, J.; Pahl, A.; Krzyzanowski, A.; Krupp, A.; Liu, J.; Koska, S.; Schölermann, B.; Zhang, R.; Bonowski, J.; Sievers, S.; Strohmann, C.; Ziegler, S.; Grigalunas, M.; Waldmann, H.  
 *Angewandte Chemie International Edition 2023, e202310222* [DOI](https://doi.org/10.1002/anie.202310222)  
 <img src="res/xie_2023.png" width=600>
 <details>
