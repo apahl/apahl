@@ -4,7 +4,7 @@
 
 ### A Divergent Intermediate Strategy Yields Biologically Diverse Pseudo-Natural Products.
 Bag, S.; Liu, J.; Patil, S.; Bonowski, J.; Koska, S.; Schölermann, B.; Zhang, R.; Wang, L.; Pahl, A.; Sievers, S.; Brieger, L.; Strohmann, C.; Ziegler, S.; Grigalunas, M.; Waldmann, H.  
-*Nat. Chem. 2024, 1-14.* [DOI](https://doi.org/10.1038/s41557-024-01458-4).
+*Nat. Chem. 2024, 1-14.* [DOI](https://doi.org/10.1038/s41557-024-01458-4)  
 <img src="res/bag_sukdev_2024.jpg" width=550>
 <details>
 <summary>Abstract</summary>
