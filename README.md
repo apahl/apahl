@@ -5,7 +5,7 @@ Name: Dr. Axel Pahl ([ORCID](https://orcid.org/0000-0003-2068-7543))
 ## Keywords
 
 Cell painting, Cheminformatics, Data science, Medicinal chemistry;  
-Python, Pandas, Flask, Panel, Seaborn;  
+Python, RDKit, Pandas, Flask, Panel, Seaborn;  
 Rust, SQL, Pipeline Pilot
 
 ## Short Profile
