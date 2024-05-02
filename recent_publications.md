@@ -2,6 +2,16 @@
 
 ## Recent Publications
 
+## Illuminating Dark Chemical Matter Using the Cell Painting Assay. 
+Pahl, A.; Liu, J.; Patil, S.; Rezaei Adariani, S.; Schölermann, B.; Warmers, J.; Bonowski, J.; Koska, S.; Akbulut, Y.; Seitz, C.; Sievers, S.; Ziegler, S.; Waldmann, H.  
+*J. Med. Chem. 2024.* [DOI](https://doi.org/10.1021/acs.jmedchem.4c00160)  
+<img src="res/pahl_dcm_2024.jpg" width=450>  
+<details>
+<summary>Abstract</summary>
+Screening for small-molecule modulators of disease-relevant targets and phenotypes is the first step on the way to new drugs. Large compound libraries have been synthesized by academia and, particularly, pharmaceutical companies to meet the need for novel chemical entities that are as diverse as possible. Screening of these compound libraries revealed a portion of small molecules that is inactive in more than 100 different assays and was therefore termed “dark chemical matter” (DCM). Deorphanization of DCM promises to yield very selective compounds as they are expected to have less off-target effects. We employed morphological profiling using the Cell Painting assay to detect bioactive DCM. Within the DCM collection, we identified bioactive compounds and confirmed several modulators of microtubules, DNA synthesis, and pyrimidine biosynthesis. Profiling approaches are, therefore, powerful tools to probe compound collections for bioactivity in an unbiased manner and are particularly suitable for deorphanization of DCM.
+</details>
+
+
 ### Assessing Biologic/Toxicologic Effects of Extractables from Plastic Contact Materials for Advanced Therapy Manufacturing Using Cell Painting Assay and Cytotoxicity Screening.
 Pahl, I.; Pahl, A.; Hauk, A.; Budde, D.; Sievers, S.; Fruth, L.; Menzel, R.  
 *Sci. Rep. 2024, 14 (1), 5933.* [DOI](https://doi.org/10.1038/s41598-024-55952-3)  
@@ -12,7 +22,7 @@ Plastic components are essential in the pharmaceutical industry, encompassing co
 
 ### Discovery of a Novel Pseudo-Natural Product Aurora Kinase Inhibitor Chemotype through Morphological Profiling.
 Wang, L.; Yilmaz, F.; Yildirim, O.; Schölermann, B.; Bag, S.; Greiner, L.; Pahl, A.; Sievers, S.; Scheel, R.; Strohmann, C.; Squire, C.; Foley, D. J.; Ziegler, S.; Grigalunas, M.; Waldmann, H.  
-*Advanced Science 2024, 2309202.* [DO](https://doi.org/10.1002/advs.202309202)  
+*Advanced Science 2024, 2309202.* [DOI](https://doi.org/10.1002/advs.202309202)  
 <img src="res/wang_aurora_2024.jpg" width=550>  
 <details>
 <summary>Abstract</summary>
