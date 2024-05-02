@@ -56,14 +56,6 @@ Pahl, A.; Schölermann, B.; Lampe, P.; Rusch, M.; Dow, M.;  Hedberg, C.; Nelson,
 Fast prediction of the mode of action (MoA) for bioactive compounds would immensely foster bioactivity annotation in compound collections and may early on reveal off-targets in chemical biology research and drug discovery. Morphological profiling, e.g., using the Cell Painting assay, offers a fast, unbiased assessment of compound activity on various targets in one experiment. However, due to incomplete bioactivity annotation and unknown activities of reference compounds, prediction of bioactivity is not straightforward. Here we introduce the concept of subprofile analysis to map the MoA for both, reference and unexplored compounds. We defined MoA clusters and extracted cluster subprofiles that contain only a subset of morphological features. Subprofile analysis allows for the assignment of compounds to, currently, twelve targets or MoA. This approach enables rapid bioactivity annotation of compounds and will be extended to further clusters in the future.
 </details>
 
-### Illuminating Dark Chemical Matter using the Cell Painting Assay
-Pahl, A.; Liu, J.; Patil, S.; Adariani, S.R.; Schölermann, B.; Warmers, J.; Bonowski, J.; Koska, S.; Sievers, S.; Ziegler, S.; Waldmann, H.  
-*Preprint on bioRxiv, submitted to J. Med. Chem.* [DOI](https://doi.org/10.1101/2023.05.31.542818)  
-<details>
-<summary>Abstract</summary>
-The identification of bioactive small molecules is at the heart of chemical biology and medicinal research. The screening for modulators of disease-relevant targets and phenotypes is the first step on the way to new drugs. Therefore, large compound libraries have been synthesized and employed by academia and, particularly, pharmaceutical companies to meet the need for chemical entities that are as diverse as possible. Extensive screening of these compound libraries revealed a portion of small molecules that is inactive in more than 100 different assays and was therefore termed ‘dark chemical matter’ (DCM). Deorphanization of DCM promises to yield very selective compounds as they, by definition, should have less off-target effects. We employed morphological profiling using the Cell painting assay (CPA) to detect bioactive DCM compounds. CPA is not biased to a given target or phenotype and can detect various unrelated mechanisms and modes of action. Within the DCM collection, we identified bioactive compounds and confirmed several modulators of microtubules, DNA synthesis and pyrimidine biosynthesis. Profiling approaches are therefore powerful tools to probe compound collections for bioactivity in an unbiased manner and particularly suitable for deorphanization of DCM.
-</details>
-
 ### Spacial Score – A Comprehensive Topological Indicator for Small Molecule Complexity
 Krzyzanowski, A.; Pahl, A.; Grigalunas, M.; Waldmann, H.  
 *J. Med. Chem. 2023, 66 (18), 12739–12750* [DOI](https://doi.org/10.1021/acs.jmedchem.3c00689)  
