@@ -2,7 +2,7 @@
 
 ## Recent Publications
 
-## Illuminating Dark Chemical Matter Using the Cell Painting Assay. 
+### Illuminating Dark Chemical Matter Using the Cell Painting Assay. 
 Pahl, A.; Liu, J.; Patil, S.; Rezaei Adariani, S.; Schölermann, B.; Warmers, J.; Bonowski, J.; Koska, S.; Akbulut, Y.; Seitz, C.; Sievers, S.; Ziegler, S.; Waldmann, H.  
 *J. Med. Chem. 2024.* [DOI](https://doi.org/10.1021/acs.jmedchem.4c00160)  
 <img src="res/pahl_dcm_2024.jpg" width=450>  
