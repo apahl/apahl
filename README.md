@@ -11,7 +11,7 @@ Rust, SQL, Pipeline Pilot
 ## Short Profile
 
 PhD (Dr. rer. nat.) in organic chemistry. Strong background in medicinal chemistry (lab leader in pharmaceutical industry for 9 years). Cheminformatics and data science. Linux enthusiast, interested in programming languages, general geek.  
-Current position: Chemoinformatician / data scientist at Max-Planck-Institute (MPI) of Molecular Physiology, Dortmund (Germany). Responsible for down-stream processing, analysis and visualization of Cell Painting results.
+Current position: Medicinal chemist / chemical data scientist at the ScreeningPort group of the Fraunhofer ITMP in Hamburg (Germany).
 
 ## Skills
 
